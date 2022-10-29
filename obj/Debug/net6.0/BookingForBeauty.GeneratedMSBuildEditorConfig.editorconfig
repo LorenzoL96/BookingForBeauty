@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Volumes/Maxtor/Progetti/BookingForBeauty
 build_property._RazorSourceGeneratorDebug = 
 
+[/Volumes/Maxtor/Progetti/BookingForBeauty/Views/Appuntamenti/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXBwdW50YW1lbnRpL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Volumes/Maxtor/Progetti/BookingForBeauty/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

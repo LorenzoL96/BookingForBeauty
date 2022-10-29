@@ -1,0 +1,13 @@
+//Stringa utilizzata per effettuare lo scaffolding iniziale da DB in PostgreSQL
+dotnet ef dbcontext scaffold "Server=localhost;Port=5432;Database=BookingDB;User Id=postgres;Password=postgres;" Npgsql.EntityFrameworkCore.PostgreSQL -o "Models -c BookingDbContext --context-namespace Models
+
+vai su: https://www.npgsql.org/efcore/ per dettagli
+
+//Dati da inserire nella classe Program.cs
+public void ConfigureServices(IServiceCollection services)
+{
+    // Other DI initializations
+
+    services.AddDbContext<BloggingContext>(options =>
+            options.UseNpgsql(Configuration.GetConnectionString("BloggingContext")));
+}

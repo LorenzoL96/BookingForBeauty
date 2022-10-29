@@ -1,7 +1,19 @@
+using BookingForBeauty.Models.Services;
+using Microsoft.EntityFrameworkCore;
+using Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Servizio per la connessione al database
+builder.Services.AddDbContext<BookingDbContext>(options => {
+    options.UseNpgsql(connectionString:"Default");
+});
+
+//Dependency Injections
+builder.Services.AddTransient<AppuntamentoService, EfCoreAppuntamentoService>();
 
 var app = builder.Build();
 

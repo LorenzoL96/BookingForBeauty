@@ -24,3 +24,13 @@
 /Volumes/Maxtor/Progetti/BookingForBeauty/obj/Debug/net6.0/BookingForBeauty.pdb
 /Volumes/Maxtor/Progetti/BookingForBeauty/obj/Debug/net6.0/BookingForBeauty.genruntimeconfig.cache
 /Volumes/Maxtor/Progetti/BookingForBeauty/obj/Debug/net6.0/ref/BookingForBeauty.dll
+/Volumes/Maxtor/Progetti/BookingForBeauty/bin/Debug/net6.0/Humanizer.dll
+/Volumes/Maxtor/Progetti/BookingForBeauty/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/Maxtor/Progetti/BookingForBeauty/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/Maxtor/Progetti/BookingForBeauty/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/Maxtor/Progetti/BookingForBeauty/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/Maxtor/Progetti/BookingForBeauty/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Volumes/Maxtor/Progetti/BookingForBeauty/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/Maxtor/Progetti/BookingForBeauty/obj/Debug/net6.0/BookingForBeauty.csproj.CopyComplete
+/Volumes/Maxtor/Progetti/BookingForBeauty/bin/Debug/net6.0/Npgsql.dll
+/Volumes/Maxtor/Progetti/BookingForBeauty/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
